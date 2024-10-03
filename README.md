@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://annibadakh.github.io/my-portfolio](http://annibadakh.github.io/my-portfolio)
 
-- 💬 Ask me about **Javascript, React.js, Node.js, MonboDB, Mysql,Java.**
+- 💬 Ask me about **Javascript, React.js, Node.js, MonboDB, Mysql, Java.**
 
 - 📫 How to reach me **aniketbadakh1212@gmail.com**
 
