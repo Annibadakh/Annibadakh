@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aniketbadakh1212@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19bf2WpnLT4o4eICZBK_TFogElFXMO3pQ/view](https://drive.google.com/file/d/19bf2WpnLT4o4eICZBK_TFogElFXMO3pQ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Qeuy519a_r_hNSbDSBCe7aH5VjyF4j0z/view?usp=sharing](https://drive.google.com/file/d/1Qeuy519a_r_hNSbDSBCe7aH5VjyF4j0z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
