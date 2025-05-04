@@ -3,11 +3,11 @@
 
 <img align="right" alt="Profile" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400">
 
-- 🌱 I'm currently learning **AI/ML**
+- 🌱 I'm currently learning **Java Spring Boot**
 
 - 👨‍💻 All of my projects are available at [http://annibadakh.github.io/my-portfolio](http://annibadakh.github.io/my-portfolio)
 
-- 💬 Ask me about **Javascript, React.js, Node.js, MongoDB, Mysql, Java.**
+- 💬 Ask me about **Javascript, React.js, Node.js, Express.js, Tailwind CSS, MongoDB, Mysql, Java, Python.**
 
 - 📫 How to reach me **aniketbadakh1212@gmail.com**
 
