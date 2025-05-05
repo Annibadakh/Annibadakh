@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **aniketbadakh1212@gmail.com**
 
+- Some deployed Projects Links
+  1. <a href="https://dnyanganga.netlify.app/" target="_blank" rel="noreferrer">Dnyanganga Education<a/>
+  2. <a href="https://yuvatech-computers.org.in/" target="_blank" rel="noreferrer">Yuvatech Computers<a/>
+  3. <a href="https://sanjivanifootball.netlify.app/" target="_blank" rel="noreferrer">Football Tournament Manager<a/>
+  
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Qeuy519a_r_hNSbDSBCe7aH5VjyF4j0z/view?usp=sharing](https://drive.google.com/file/d/1Qeuy519a_r_hNSbDSBCe7aH5VjyF4j0z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
