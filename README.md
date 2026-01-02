@@ -23,7 +23,7 @@ backend logic to enhance efficiency, with a strong focus on Agile development an
   3. <a href="https://drone-survey-management.netlify.app/" target="_blank" rel="noreferrer">Drone Survey Platform<a/>
   3. <a href="https://app-note-taking.netlify.app/" target="_blank" rel="noreferrer">Note Taking App<a/>
 
--Problem Solving
+- Problem Solving
 <p>
   <a href="https://leetcode.com/u/xLjp90tolx/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
@@ -56,17 +56,17 @@ backend logic to enhance efficiency, with a strong focus on Agile development an
 
 <!-- GitHub Stats Card -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Annibadakh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aniket's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Annibadakh&show_icons=true&theme=tokyonight" />
 </p>
 
 <!-- GitHub Streak Stats -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annibadakh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Annibadakh&theme=tokyonight" />
 </p>
 
 <!-- Top Languages Card -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annibadakh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annibadakh&layout=compact&theme=tokyonight" />
 </p>
 
 <!-- GitHub Activity Graph -->
