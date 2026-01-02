@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Badakh Aniket</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Aspiring Software Developer from India</h3>
+
+<p align="justify">Full-Stack Developer skilled in React.js, Node.js, Spring Boot, MySQL, and MongoDB, building scalable applications with real-time data 
+handling. Experienced in RESTful APIs, role-based access, payment gateway integration, automated notifications, and CI/CD deployment 
+using Docker/Kubernetes on cloud platforms. Proficient in designing reusable UI components, responsive interfaces, and optimized 
+backend logic to enhance efficiency, with a strong focus on Agile development and delivering high-quality solutions.</p>
 
 <img align="right" alt="Profile" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400">
 
@@ -7,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [http://annibadakh.github.io/my-portfolio](http://annibadakh.github.io/my-portfolio)
 
-- 💬 Ask me about **Javascript, React.js, Node.js, Express.js, Tailwind CSS, MongoDB, Mysql, Java, Python.**
+- 💬 Ask me about **Javascript, React.js, Node.js, Express.js, Tailwind CSS, MongoDB, Mysql, Java, Python, Deployment, Payment Gateway, Notification System(Whats'app, DLT, Email, Push Notification) Frontend, Backend, Software Development.**
 
 - 📫 How to reach me **aniketbadakh1212@gmail.com**
 
@@ -15,6 +20,8 @@
   1. <a href="https://dnyanganga.netlify.app/" target="_blank" rel="noreferrer">Dnyanganga Education<a/>
   2. <a href="https://yuvatech-computers.org.in/" target="_blank" rel="noreferrer">Yuvatech Computers<a/>
   3. <a href="https://sanjivanifootball.netlify.app/" target="_blank" rel="noreferrer">Football Tournament Manager<a/>
+  3. <a href="https://drone-survey-management.netlify.app/" target="_blank" rel="noreferrer">Drone Survey Platform<a/>
+  3. <a href="https://app-note-taking.netlify.app/" target="_blank" rel="noreferrer">Note Taking App<a/>
   
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Qeuy519a_r_hNSbDSBCe7aH5VjyF4j0z/view?usp=sharing](https://drive.google.com/file/d/1Qeuy519a_r_hNSbDSBCe7aH5VjyF4j0z/view?usp=sharing)
