@@ -69,9 +69,6 @@ backend logic to enhance efficiency, with a strong focus on Agile development an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annibadakh&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=annibadakh" />
-</p>
 
 <p>
   <img src="https://ghchart.rshah.org/annibadakh" />
