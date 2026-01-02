@@ -22,6 +22,22 @@ backend logic to enhance efficiency, with a strong focus on Agile development an
   3. <a href="https://sanjivanifootball.netlify.app/" target="_blank" rel="noreferrer">Football Tournament Manager<a/>
   3. <a href="https://drone-survey-management.netlify.app/" target="_blank" rel="noreferrer">Drone Survey Platform<a/>
   3. <a href="https://app-note-taking.netlify.app/" target="_blank" rel="noreferrer">Note Taking App<a/>
+
+-Problem Solving
+<p>
+  <a href="https://leetcode.com/u/xLjp90tolx/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
+  </a>
+</p>
+
+- Certifications
+<p>
+  <a href="https://www.coursera.org/learner/aniket-badakh" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-Certifications-blue?logo=coursera" />
+  </a>
+</p>
+
+
   
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1F4lTlS-manSQkBbts1nYZu-yReRlX0D5/view?usp=sharing](https://drive.google.com/file/d/1F4lTlS-manSQkBbts1nYZu-yReRlX0D5/view?usp=sharing)
@@ -40,17 +56,17 @@ backend logic to enhance efficiency, with a strong focus on Agile development an
 
 <!-- GitHub Stats Card -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=annibadakh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aniket's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Annibadakh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aniket's GitHub Stats" />
 </p>
 
 <!-- GitHub Streak Stats -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annibadakh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annibadakh&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages Card -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annibadakh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annibadakh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <!-- GitHub Activity Graph -->
