@@ -17,7 +17,7 @@ backend logic to enhance efficiency, with a strong focus on Agile development an
 - 📫 How to reach me **aniketbadakh1212@gmail.com**
 
 - Some deployed Projects Links
-  1. <a href="https://dnyanganga.netlify.app/" target="_blank" rel="noreferrer">Dnyanganga Education<a/>
+  1. <a href="https://dnyangangaeducation.com/" target="_blank" rel="noreferrer">Dnyanganga Education<a/>
   2. <a href="https://yuvatech-computers.org.in/" target="_blank" rel="noreferrer">Yuvatech Computers<a/>
   3. <a href="https://sanjivanifootball.netlify.app/" target="_blank" rel="noreferrer">Football Tournament Manager<a/>
   3. <a href="https://drone-survey-management.netlify.app/" target="_blank" rel="noreferrer">Drone Survey Platform<a/>
