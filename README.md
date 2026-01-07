@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badakh Aniket</h1>
-<h3 align="center">A Aspiring Software Developer from India</h3>
+<h3 align="center">Aspiring Software Developer from India</h3>
 
 <p align="justify">Full-Stack Developer skilled in React.js, Node.js, Spring Boot, MySQL, and MongoDB, building scalable applications with real-time data 
 handling. Experienced in RESTful APIs, role-based access, payment gateway integration, automated notifications, and CI/CD deployment 
