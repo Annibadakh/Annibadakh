@@ -8,9 +8,9 @@ on cloud platforms. Proficient in designing reusable UI components, responsive i
 with a strong focus on Agile development and delivering high-quality solutions.
 </p>
 
-<img align="right" alt="Profile" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400">
+<img align="right" alt="Profile" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300">
 
-- 🌱 I'm currently learning **Java Spring Boot**
+- 🌱 I'm currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at  
   👉 http://annibadakh.github.io/my-portfolio
