@@ -68,7 +68,27 @@ with a strong focus on Agile development and delivering high-quality solutions.
 
 ### 🛠️ Languages and Tools
 <p align="left">
-<!-- (Keep your icons same, they are correct) -->
+
+<!-- Languages -->
+<strong>Languages:</strong><br/>
+<img src="https://skillicons.dev/icons?i=js,java,python,c" /><br/><br/>
+
+<!-- Frontend -->
+<strong>Frontend:</strong><br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br/><br/>
+
+<!-- Backend -->
+<strong>Backend:</strong><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" /><br/><br/>
+
+<!-- Database -->
+<strong>Database:</strong><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
+
+<!-- Tools -->
+<strong>Tools & Platforms:</strong><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
+
 </p>
 
 ---
